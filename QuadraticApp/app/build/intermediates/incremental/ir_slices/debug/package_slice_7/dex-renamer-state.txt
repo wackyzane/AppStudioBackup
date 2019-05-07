@@ -1,0 +1,4 @@
+#Fri Mar 22 12:46:32 MDT 2019
+base.0=/home/compsci/AndroidStudioProjects/QuadraticApp/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
